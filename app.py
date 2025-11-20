@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.title("Mental Health Stress Level Predictor with Visualizations (Bhutan)")
